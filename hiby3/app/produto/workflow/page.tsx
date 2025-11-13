@@ -59,8 +59,8 @@ export default function WorkflowPage() {
       description: "Controle total do RH, Compliance e Eficiência.",
       features: [
         "Até 200 colaboradores",
-        "**Workflows de Aprovação e Edição (Core RH)**",
-        "**Auditoria Completa** e Logs de Acesso",
+        "Workflows de Aprovação e Edição (Core RH)",
+        "Auditoria Completa e Logs de Acesso",
         "Relatórios Avançados (Banco de Horas, Extras)",
         "Suporte Prioritário",
         "Até 5 tenants (ou empresas)",
@@ -74,8 +74,8 @@ export default function WorkflowPage() {
       description: "Integração total e automação avançada para a Folha de Pagamento.",
       features: [
         "Colaboradores Ilimitados",
-        "**API Key Exclusiva para Integrações**", 
-        "**Endpoint de Folha de Pagamento (Extract)**", 
+        "API Key Exclusiva para Integrações", 
+        "Endpoint de Folha de Pagamento (Extract)", 
         "Customização de Regras de Negócio",
         "Treinamento Dedicado",
         "Infraestrutura dedicada (Opção)",
