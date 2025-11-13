@@ -47,7 +47,7 @@ export default function WorkflowPage() {
       features: [
         "Teste sem compromisso (15 dias)",
         "Acesso completo aos Workflows de RH",
-        "Até 50 colaboradores",
+        "Até 25 colaboradores",
         "Suporte por E-mail",
         "Histórico de Batidas e Relatórios",
       ],
@@ -58,9 +58,9 @@ export default function WorkflowPage() {
       period: "/mês",
       description: "Controle total do RH, Compliance e Eficiência Garantida.",
       features: [
-        "Até 200 colaboradores",
+        "Até 150 colaboradores",
         "Workflows de Aprovação e Edição (Core RH)",
-        "Auditoria Completa** e Logs de Acesso",
+        "Auditoria Completa e Logs de Acesso",
         "Relatórios Avançados (Banco de Horas, Extras)",
         "Suporte Prioritário",
         "Até 5 tenants (ou empresas)",
